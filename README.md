@@ -1,6 +1,3 @@
-# Sentiment-Anlysis---PANDAS
-Created a comment sentiment analysis script utilizing Pandas and TextBlob
-
 # Social Media Sentiment Analysis Project
 
 This project analyzes emotional trends in global social media posts using structured and unstructured data.
